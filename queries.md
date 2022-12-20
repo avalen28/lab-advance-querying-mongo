@@ -53,7 +53,7 @@
 ### 7. All the companies that have a null type of value on the `category_code` field.
 
 - **`query`**: {category_code: null}
-- **`projection`**: -
+- **`projection`**:
 - **`sort`**: -
 - **`skip`**: -
 - **`limit`**: -
